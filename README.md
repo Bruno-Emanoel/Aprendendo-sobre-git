@@ -8,3 +8,4 @@ Abra esse repositório no seu VS Code (não tem ele instalado? [clique aqui](htt
 
 - Bruno Emanoel
 - Laion Souza
+- João Vitor
