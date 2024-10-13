@@ -7,3 +7,4 @@ Abra esse repositório no seu VS Code (não tem ele instalado? [clique aqui](htt
 ## ponha seu nome aqui:
 
 - Bruno Emanoel
+- Laion Souza
